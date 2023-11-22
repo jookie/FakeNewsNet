@@ -36,6 +36,7 @@
     "react-router-dom": "^6.4.3",
     "reactstrap": "^9.1.5",
     "request": "^2.88.2",
+    "sass": "^1.69.5",
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
@@ -52,8 +53,7 @@
     "html-webpack-plugin": "^5.5.0",
     "inline-source-map": "^0.6.2",
     "mini-css-extract-plugin": "^2.7.0",
-    "node-sass": "^7.0.3",
-    "sass-loader": "^12.6.0",
+    "sass-loader": "^13.3.2",
     "source-map": "^0.7.4",
     "style-loader": "^3.3.1",
     "terser-webpack-plugin": "^5.3.6",

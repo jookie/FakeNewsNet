@@ -30,7 +30,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 // Get port from environment or else default to 5000
-app.set('port', (process.env.PORT || 5000));
+app.set('port', (process.env.PORT || 5001));
 
 // Enable all CORS requests
 // app.use(cors());
